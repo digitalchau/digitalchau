@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Châu
 - 👀 This account is dedicated to share my projects in data mining, forecast analytics, and coding in general.
 - 🌱 I’m currently using SQL, R, Python and Tableau to extract, analyze and visualize data.
-- 💞️ I’m looking to collaborate on coding projects related to any coding languages mentioned above.
+- I’m looking to collaborate on coding projects related to any coding languages mentioned above.
 - 📫 You could reach me at my email: chaupham.cnn@gmail.com
 
 <!---
